@@ -1,4 +1,4 @@
-@extends('Website.layout.app')
+  @extends('Website.layout.app')
 @section('style')
 @endsection
 @section('content')
